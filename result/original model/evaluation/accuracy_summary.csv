@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4bca38737913d8edb7a8da300604897c78b119d7cd11f8688c94d79a5f2a0b3c
-size 116
+file_name,total_question,correct_answer,accuracy,accuracy_percentage
+mcq_mult_cpa_inference.csv,120,64,0.5333,53.33
